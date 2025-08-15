@@ -1,4 +1,5 @@
 ## Hey there 👋
 
 
-I’m currently learning how to code with the odin project!
+I’m currently learning how to code HTML with git
+
